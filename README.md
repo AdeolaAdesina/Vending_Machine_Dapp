@@ -21,3 +21,4 @@ Now run ```npx create-next-app vending_dapp``` This will create the scaffold of 
 Now cd into vending_dapp, open in VS code and run ```npm run dev```
 
 
+```npx kill-port 3000```
